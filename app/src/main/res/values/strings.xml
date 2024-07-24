@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="please_enter_the_kilos">Please enter the Kilos</string>
+    <string name="convert_now">Convert Now</string>
+    <string name="_0">0</string>
+    <string name="kilos_to_pounds_converter">Kilos to Pounds Converter</string>
+</resources>
